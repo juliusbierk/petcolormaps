@@ -1,5 +1,5 @@
 # petcolormaps
-200 colormaps for python matplotlib and generator for more
+200 colormaps for python matplotlib and generator for more.
 
 ```python
 import petcolornames as pcn
@@ -8,7 +8,7 @@ plt.imshow(a, cmap = pcn.firmly_ideal_crow)
 plt.show()
 ```
 
-Scroll down for examples.
+All colormaps are increasing in brightness -- although code should be easy to change for diverging colormaps.
 
 
 ![Example colormaps](https://raw.githubusercontent.com/juliusbierk/petcolormaps/master/some_colormaps_random.png)
